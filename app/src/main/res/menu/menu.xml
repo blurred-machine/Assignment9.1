@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="TEXT COLOR"
+        android:id="@+id/textCol">
+        <menu>
+            <item
+                android:title="RED"
+                android:id="@+id/redCol">
+            </item>
+            <item android:title="BLUE"
+                android:id="@+id/blueCol">
+
+            </item>
+            <item android:title="GREEN"
+                android:id="@+id/greenCol">
+
+            </item>
+            <item android:title="GRAY"
+                android:id="@+id/grayCol">
+            </item>
+        </menu>
+    </item>
+</menu>
